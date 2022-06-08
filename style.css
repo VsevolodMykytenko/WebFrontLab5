@@ -1,0 +1,12 @@
+#find_element{
+    background: blue;
+    color: white;
+}
+p.query_element{
+    background: greenyellow;
+    color: black;
+}
+img{
+    height: 400px;
+    width: 700px;
+}
